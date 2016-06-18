@@ -27,7 +27,7 @@
 
 /* THANKS */
   Analytics: Olga Kramarchenko
-  Contact: kramarchenko96 [at] mail.ru
+  Contact: olgakramarcenko [at] gmail.com
   From: Rostov-on-Don, Russia
 
   QC: Acy Dobrynina
